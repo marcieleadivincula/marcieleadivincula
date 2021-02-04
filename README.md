@@ -42,11 +42,11 @@ These are some of the technologies and tools that I work with:
 
 ### My latest projects
 
-<a href="https://github.com/marcieleadivincula/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=marcieleadivincula&repo=codestats-profile-readme" alt="codestats-profile-readme" />
+<a href="https://github.com/marcieleadivincula/dev-finances">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=marcieleadivincula&repo=dev-finances" alt="dev-finances" />
 </a>
-<a href="https://github.com/marcieleadivincula/Geometry-Dash-Menu-Music-Randomizer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=marcieleadivincula&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
+<a href="https://github.com/marcieleadivincula/rest-api-tutorial">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=marcieleadivincula&repo=rest-api-tutorial" alt="rest-api-tutorial" />
 </a>
 
 ### Recently I'm coding in...
