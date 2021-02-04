@@ -1,12 +1,12 @@
 <p align="center">
-### Hi there 👋 I'm Marciele 👩‍💻 
+# Hi there 👋 I'm Marciele 👩‍💻 
  A front-end developer from Blumenau, Brazil.
  
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcieleadivincula/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcieleadivincula/)
 </p>
 
-### 💻 About me !
 <p align="center">
+### 💻 About me !
 * 👩‍💻 I’m currently working with C#, React and accessibility;
 * 💬 Ask me about programming or anything related to tech!
 * 🌱 I’m currently learning C#;
