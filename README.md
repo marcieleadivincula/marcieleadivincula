@@ -4,7 +4,7 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcieleadivincula/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcieleadivincula/)
 
-[![Github Stats By Marciele Adivincula](https://github-readme-stats.vercel.app/api?username=marcieleadivincula&count_private=true&include_all_commits&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/marcieleadivincula/github-readme-stats)
+[![Github Stats By Marciele Adivincula](https://github-readme-stats.vercel.app/api?username=marcieleadivincula&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/marcieleadivincula/github-readme-stats)
 
 ### 💻 About me !
 - 👩‍💻 I’m currently working with C#, React and accessibility;
@@ -22,6 +22,8 @@ These are some of the technologies and tools that I work with:
 
 
 Thanks for visiting. Enjoy it!! o/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcieleadivincula&layout=compact)](https://github.com/marcieleadivincula/github-readme-stats)
 
 <details>
   <summary> <b> My Resume </b></summary>
