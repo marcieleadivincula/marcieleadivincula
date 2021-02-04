@@ -19,8 +19,6 @@ Thanks for visiting. Enjoy it!! o/
 
 <details>
   <summary> <b> 📝 My Resume </b></summary>
-  
-  <br>
 
 # Education
 
