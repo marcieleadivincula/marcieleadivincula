@@ -22,12 +22,6 @@ Thanks for visiting. Enjoy it!! o/
 
 # Education
 
-* 📖 Bacharelado em Odontologia 
-  <br>
-  📍 Centro Universitário São Lucas (UniSL) - Porto Velho/RO 
-  <br>
-  📆 Concluído em 2017
-
 * 📖 Montagem e Manutenção de Computadores e Redes 
   <br>
   📍 Microlins - Pontes e Lacerda/MT 
