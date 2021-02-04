@@ -39,23 +39,4 @@ These are some of the technologies and tools that I work with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcieleadivincula&layout=compact)](https://github.com/marcieleadivincula/github-readme-stats)
 
-
-### My latest projects
-
-<a href="https://github.com/marcieleadivincula/dev-finances">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=marcieleadivincula&repo=dev-finances" alt="dev-finances" />
-</a>
-<a href="https://github.com/marcieleadivincula/rest-api-tutorial">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=marcieleadivincula&repo=rest-api-tutorial" alt="rest-api-tutorial" />
-</a>
-<a href="https://github.com/marcieleadivincula/entra21">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=marcieleadivincula&repo=entra21" alt="entra21" />
-</a>
-
-### Recently I'm coding in...
-
-<a href="https://codestats.net/users/marcieleadivincula">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="marcieleadivincula's Code::Stats history graph" />
-</a>
-
 </details>
