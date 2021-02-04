@@ -25,23 +25,33 @@ Thanks for visiting. Enjoy it!! o/
 # 📖 Education
 
 * 📖 Bacharelado em Odontologia 
+  <br>
   📍 Centro Universitário São Lucas (UniSL) - Porto Velho/RO 
+  <br>
   📆 Concluído em 2017
 
 * 📖 Montagem e Manutenção de Computadores e Redes 
+  <br>
   📍 Microlins - Pontes e Lacerda/MT 
+  <br>
   📆 Mar/2010 a Dez/2010 - 96 horas
 
 * 📖 Tecnólogo em Análise e Desenvolvimento de Sistemas 
+  <br>
   📍 Faculdade de Tecnologia Senac (SENAC) - Blumenau/SC 
+  <br>
   📆 Previsão de término: 2023
 
 * 📖 Front-end Developer 
+  <br>
   📍 Laboratoria – São Paulo/SP 
+  <br>
   📆 Ago/2019 – 6 meses
 
 * 📖 Cursando C# 
+  <br>
   📍 Projeto Entra21 Blusoft - Blumenau/SC
+  <br>
   📆 Previsão de término fev/2021 – 480 horas
 
 
