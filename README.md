@@ -4,7 +4,7 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcieleadivincula/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcieleadivincula/)
 
-[![Github Stats By Marciele Adivincula](https://github-readme-stats.vercel.app/api?username=quadrified&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/marcieleadivincula/github-readme-stats)
+[![Github Stats By Marciele Adivincula](https://github-readme-stats.vercel.app/api?username=marcieleadivincula&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/marcieleadivincula/github-readme-stats)
 
 ### 💻 About me !
 - 👩‍💻 I’m currently working with C#, React and accessibility;
@@ -27,16 +27,15 @@ Thanks for visiting. Enjoy it!! o/
   <summary> <b> My Resume </b></summary>
   
   <br>
----
-### Education
+
+# Education
+
 - Bacharelado em Odontologia - Centro Universitário São Lucas (UniSL) - Porto Velho/RO - Concluído em 2017.
 - Montagem e Manutenção de Computadores e Redes - Microlins - Mar/2010 a Dez/2010 - 96 horas.
 - Tecnólogo em Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia Senac (SENAC) - Blumenau/SC – Previsão de término: 2023.
 - Front-end Developer - Laboratoria – São Paulo/SP – Ago/2019 – 6 meses.
 - Cursando C# - Projeto Entra21 Blusoft - Blumenau/SC – previsão de término fev/2021 – 480 horas.
 
-### Experience
-
----
+# Experience
 
 </details>
