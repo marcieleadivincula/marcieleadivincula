@@ -22,6 +22,7 @@
 </p>
 
 <p align='center'>
+ 
 ### Talking about personal stuff
 - 👩‍💻 I’m currently working on improving my techskill;
 - 💬 Ask me about programming or anything related to tech, I am happy to help;
@@ -39,19 +40,19 @@ Thanks for visiting. Enjoy it!! o/
 
 ## Education
 
-* 📖 **Assembly and Maintenance of Computers and Networks**\ 
+- 📖 **Assembly and Maintenance of Computers and Networks**\ 
   📍 **Microlins** - Pontes e Lacerda/MT, Brazil\ 
   📆 Mar/2010 a Dec/2010 - 96 hours
   
-* 📖 **Front End Developer**\ 
+- 📖 **Front End Developer**\ 
   📍 **Laboratoria** – São Paulo/SP, Brazil\ 
   📆 Aug/2019 – 6 months
   
-* 📖 **Studying C#**\ 
+- 📖 **Studying C#**\ 
   📍 **Entra21 Blusoft** - Blumenau/SC, Brazil\
   📆 2019 - Moment – 480 hours
   
-* 📖 **Analysis and Systems Development**\
+- 📖 **Analysis and Systems Development**\
   📍 **SENAC Technology College** - Blumenau/SC, Brazil \
   📆 2020 - Moment
 
