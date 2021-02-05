@@ -22,29 +22,29 @@ Thanks for visiting. Enjoy it!! o/
 
 # Education
 
-* 📖 Montagem e Manutenção de Computadores e Redes 
+* 📖 Assembly and Maintenance of Computers and Networks 
   <br>
   📍 Microlins - Pontes e Lacerda/MT 
   <br>
-  📆 Mar/2010 a Dez/2010 - 96 horas
+  📆 Mar/2010 a Dec/2010 - 96 hours
   
-* 📖 Front-end Developer 
+* 📖 Front End Developer 
   <br>
   📍 Laboratoria – São Paulo/SP 
   <br>
-  📆 Ago/2019 – 6 meses
+  📆 Aug/2019 – 6 months
   
-* 📖 Cursando C# 
+* 📖 Studying C# 
   <br>
-  📍 Projeto Entra21 Blusoft - Blumenau/SC
+  📍 Entra21 Blusoft - Blumenau/SC
   <br>
-  📆 Previsão de término fev/2021 – 480 horas
+  📆 2019 - Moment – 480 hours
   
-* 📖 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas 
+* 📖 Analysis and Systems Development
   <br>
-  📍 Faculdade de Tecnologia Senac (SENAC) - Blumenau/SC 
+  📍 SENAC Technology College - Blumenau/SC 
   <br>
-  📆 Previsão de término: 2023
+  📆 2020 - Moment
 
 
 # Languages and Tools...
@@ -56,4 +56,10 @@ These are some of the technologies and tools that I work with:
 
 # Experience
 
+* 👨‍💻 Systems Analyst and Front End Developer
+  <br>
+  📆 2019 - 2020
+  <br>
+  📍 HBSIS - Blumenau/SC, Brazil 
+  
 </details>
