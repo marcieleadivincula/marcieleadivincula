@@ -40,21 +40,22 @@ Thanks for visiting. Enjoy it!! o/
 
 ## Education
 
-- 📖 **Assembly and Maintenance of Computers and Networks**\ 
-  📍 **Microlins** - Pontes e Lacerda/MT, Brazil\
-  📆 Mar/2010 a Dec/2010 - 96 hours
+- 📖 **Assembly and Maintenance of Computers and Networks**\
+📆 Mar/2010 a Dec/2010 - 96 hours\
+📍 **Microlins** - Pontes e Lacerda/MT, Brazil
+  
   
 - 📖 **Front End Developer**\ 
-  📍 **Laboratoria** – São Paulo/SP, Brazil\ 
-  📆 Aug/2019 – 6 months
+📆 Aug/2019 – 6 months\
+📍 **Laboratoria** – São Paulo/SP, Brazil
   
 - 📖 **Studying C#**\ 
-  📍 **Entra21 Blusoft** - Blumenau/SC, Brazil\
-  📆 2019 - Moment – 480 hours
+📆 2019 - Moment – 480 hours\
+📍 **Entra21 Blusoft** - Blumenau/SC, Brazil
   
 - 📖 **Analysis and Systems Development**\
-  📍 **SENAC Technology College** - Blumenau/SC, Brazil\
-  📆 2020 - Moment
+📆 2020 - Moment\
+📍 **SENAC Technology College** - Blumenau/SC, Brazil
 
 
 ## Languages and Tools...
