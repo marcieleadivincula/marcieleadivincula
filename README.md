@@ -7,11 +7,18 @@
  </p>
  
  <p align='center'>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcieleadivincula/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcieleadivincula/)
+ 
+ <a href="https://www.linkedin.com/in/marcieleadivincula/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/marcieleadivincula">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
 </p>
 
 <p align='center'>
-[![Github Stats By Marciele Adivincula](https://github-readme-stats.vercel.app/api?username=marcieleadivincula&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/marcieleadivincula/github-readme-stats)
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=marcieleadivincula&count_private=true&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
