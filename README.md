@@ -43,7 +43,7 @@ Thanks for visiting. Enjoy it!! o/
 - 📖 **Assembly and Maintenance of Computers and Networks**\
 📆 Mar/2010 a Dec/2010 - 96 hours\
 📍 **Microlins** - Pontes e Lacerda/MT, Brazil
-  
+
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
@@ -51,7 +51,6 @@ Thanks for visiting. Enjoy it!! o/
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-
 - 📖 **Front End Developer**\ 
 📆 Aug/2019 – 6 months\
 📍 **Laboratoria** – São Paulo/SP, Brazil
@@ -62,7 +61,6 @@ Thanks for visiting. Enjoy it!! o/
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-
 - 📖 **Studying C#**\ 
 📆 2019 - Moment – 480 hours\
 📍 **Entra21 Blusoft** - Blumenau/SC, Brazil
@@ -73,7 +71,6 @@ Thanks for visiting. Enjoy it!! o/
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-
 - 📖 **Analysis and Systems Development**\
 📆 2020 - Moment\
 📍 **SENAC Technology College** - Blumenau/SC, Brazil
