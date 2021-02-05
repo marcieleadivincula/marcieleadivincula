@@ -68,7 +68,7 @@ These are some of the technologies and tools that I work with:
 ## Experience
 
 - 👨‍💻 **Systems Analyst and Front End Developer**\
-  📆 2019 - 2020\
-  📍 **HBSIS** - Blumenau/SC, Brazil 
+📆 2019 - 2020\
+📍 **HBSIS** - Blumenau/SC, Brazil 
   
 </details>
