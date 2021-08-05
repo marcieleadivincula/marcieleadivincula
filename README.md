@@ -3,7 +3,7 @@
  </h1>
  
  <p align='center'>
- A front-end developer from Blumenau, Brazil.
+ A front-end developer from Brazil.
  </p>
  
  <p align='center'>
